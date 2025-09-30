@@ -4,11 +4,11 @@
 [![Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-**Welcome to your friendly gateway to the world of open source contributions!** 🌟
+**Welcome to your friendly gateway to the world of open source contributions!* 🌟
 
 This repository is specifically designed for **Hacktoberfest** participants and newcomers who want to learn Git, GitHub workflows, and make their first open source contributions in a safe, welcoming environment.
 
-## 🎯 What is this project?
+## 🎯 What is this project ?
 
 Open Source Playground is a beginner-friendly repository where you can:
 - Practice forking, cloning, and creating pull requests
@@ -68,7 +68,7 @@ We welcome all kinds of contributions! Here are some ideas:
 - Improve project structure and workflows
 - Add automated testing for code examples
 
-## 📁 Project Structure
+## 📁 Project Structure.
 
 ```
 Open-Source-Playground/
