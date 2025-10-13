@@ -125,7 +125,9 @@ Feel free to open an issue if you have any questions or need help getting starte
 ---
 ## Resources  
 - [Hacktoberfest Official Site](https://hacktoberfest.com)  
-- [GitHub Docs](https://docs.github.com)  
+- [GitHub Docs](https://docs.github.com) 
+
+
 
 
 Feel free to open an issue if you have any questions or need help getting started. We're here to help!
