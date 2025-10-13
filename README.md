@@ -141,6 +141,9 @@ Feel free to open an issue if you have any questions or need help getting starte
 
 🌟 Open source is not just code, it’s a community — keep sharing and shining! 🌟
 
+✨ Keep contributing, and happy Hacktoberfest! ✨
+
+
 
 
 *Remember: Every expert was once a beginner. Your first contribution matters!*
