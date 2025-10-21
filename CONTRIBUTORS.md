@@ -71,6 +71,13 @@ add: Sameer Khuhro to contributors list
 - **Programming Languages Loved**: ∞
 - **Shahzaman**
 
+
+### [Naaz Ahmed](https://github.com/naaz92)
+- **Fun Fact**: I enjoy teaching AI to understand human languages!
+- **Favorite Programming Language**: Python 🐍
+- **Location**: Jamshoro, Sindh, Pakistan
+- **First Contribution Date**: 2025-10-14
+
 ---
 
 **Want to be featured here?** Follow our [contribution guide](CONTRIBUTING.md) and add yourself!
