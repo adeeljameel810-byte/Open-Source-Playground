@@ -20,6 +20,11 @@ Open Source Playground is a beginner-friendly repository where you can:
 - Learn Git commands and workflows without fear of breaking anything
 - Connect with other developers starting their open source journey
 
+- How It Works
+During the month of October, participants are encouraged to submit at least four pull requests (PRs) to any public repository tagged with the “Hacktoberfest” label. These contributions can be anything from fixing bugs and improving documentation to adding new features or even enhancing project design and accessibility.
+
+Once participants complete the challenge, they are eligible to receive limited-edition Hacktoberfest swag (like a T-shirt or digital badge) as a token of appreciation. Over the years, the event has also emphasized sustainability—offering participants the choice to plant a tree instead of receiving physical swag.
+
 ## 🚀 Quick Start
 
 ### 1. Fork this repository
