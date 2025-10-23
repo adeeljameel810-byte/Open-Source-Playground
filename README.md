@@ -6,6 +6,8 @@
 
 This repo is part of Hacktoberfest 2025 — contributions welcome! 🎉
 
+**📖 Translations:** [Português (Brasil)](README.pt-BR.md)
+
 
 **Welcome to your friendly gateway to the world of open source contributions!** 🌟
 
