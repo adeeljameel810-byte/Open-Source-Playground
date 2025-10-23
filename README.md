@@ -159,3 +159,6 @@ Keep contributing , and happy hacktoberfest!
 o [Hacktoberfest Official Site](https://hacktoberfest.com) 
 o [GitHub Docs](https://docs.github.com) 
 
+
+Hacktoberfest isn’t just about writing code—it’s about learning, sharing, and growing with the global developer community. It embodies the spirit of open source: collaboration, transparency, and innovation. Whether you’re a beginner taking your first steps in coding or an experienced developer looking to give back, Hacktoberfest is a fun and rewarding way to make a positive impact in tech.
+
