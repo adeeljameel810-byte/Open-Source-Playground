@@ -62,6 +62,8 @@ add: Sameer Khuhro to contributors list
 
 Shafi Muhammad to list
 
+add : Yasir Nawaz khuhro to list
+
 
 
   add:Dua Ali to contributor list.
