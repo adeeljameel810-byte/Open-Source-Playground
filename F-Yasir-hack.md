@@ -1,0 +1,1 @@
+-Use code snippets and templates — save common functions or setups so you don’t rewrite them every time.
