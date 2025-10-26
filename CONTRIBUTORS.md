@@ -8,13 +8,13 @@ Thank you to all the amazing people who have contributed to the Open Source Play
 2. Add your information below following the format
 3. Create a pull request
 
-## Format
+
 ```markdown
-### [Your Name](Your GitHub Profile URL)
-- **Fun Fact**: Something interesting about you!
-- **Favorite Programming Language**: Your favorite language
-- **Location**: Your city/country (optional)
-- **First Contribution Date**: YYYY-MM-DD
+### [Jameel Ahmed](https://github.com/adeeljameel810-byte)
+- **Fun Fact**: Start to learn like a child!
+- **Favorite Programming Language**: C++
+- **Location**: Gambat,sindh,Pakistan
+- **First Contribution Date**: 26/10/2025
 ```
 Fun Fact: I hate notifications!
 ---
