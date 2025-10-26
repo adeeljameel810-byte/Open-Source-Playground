@@ -4,7 +4,7 @@
 [![Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-This repo is part of Hacktoberfest 2025 — contributions welcome! 🎉
+This repo is a part of Hacktoberfest 2025 — contributions and  welcome to hectoberfest2025! 🎉
 
 **📖 Translations:** [Português (Brasil)](README.pt-BR.md)
 
@@ -16,11 +16,11 @@ This repository is specifically designed for **Hacktoberfest** participants and 
 ## 🎯 What is this project?
 
 Open Source Playground is a beginner-friendly repository where you can:
-- Practice forking, cloning, and creating pull requests
+- Practice forking, cloning, and mainly creating pull requests
 - Add your name to our contributors list
-- Contribute simple "Hello World" programs in your favorite programming language
+- Contribute simple "Hello World" program in your favorite programming language
 - Learn Git commands and workflows without fear of breaking anything
-- Connect with other developers starting their open source journey
+- Connect with the other developers starting their open source journey.
 
 - How It Works
 During the month of October, participants are encouraged to submit at least four pull requests (PRs) to any public repository tagged with the “Hacktoberfest” label. These contributions can be anything from fixing bugs and improving documentation to adding new features or even enhancing project design and accessibility.
@@ -32,7 +32,7 @@ Once participants complete the challenge, they are eligible to receive limited-e
 ### 1. Fork this repository
 Click the "Fork" button at the top right of this page to create your own copy.
 
-### 2. Clone your fork
+### 2. Clone your fork.
 ```bash
 git clone https://github.com/YOUR_USERNAME/Open-Source-Playground.git
 cd Open-Source-Playground
