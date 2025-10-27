@@ -27,6 +27,8 @@ During the month of October, participants are encouraged to submit at least four
 
 Once participants complete the challenge, they are eligible to receive limited-edition Hacktoberfest swag (like a T-shirt or digital badge) as a token of appreciation. Over the years, the event has also emphasized sustainability—offering participants the choice to plant a tree instead of receiving physical swag.
 
+
+Hacktoberfest has grown into a global movement, with thousands of developers from all backgrounds participating. It’s not just about code—it’s about community, mentorship, and making technology more inclusive and accessible.
 ## 🚀 Quick Starting
 
 ### 1. Fork this repository
