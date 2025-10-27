@@ -27,24 +27,24 @@ During the month of October, participants are encouraged to submit at least four
 
 Once participants complete the challenge, they are eligible to receive limited-edition Hacktoberfest swag (like a T-shirt or digital badge) as a token of appreciation. Over the years, the event has also emphasized sustainability—offering participants the choice to plant a tree instead of receiving physical swag.
 
-## 🚀 Quick Start
+## 🚀 Quick Starting
 
 ### 1. Fork this repository
-Click the "Fork" button at the top right of this page to create your own copy.
+Click the "Fork" button at the top right of this page to create your own copy of repository.
 
-### 2. Clone your fork
+### 2. then clone your fork
 ```bash
 git clone https://github.com/YOUR_USERNAME/Open-Source-Playground.git
 cd Open-Source-Playground
 ```
 
-### 3. Create a new branch
+### 3.After that create a new branch
 ```bash
 git checkout -b my-contribution
 ```
 
-### 4. Make your changes
-- Add your name to [CONTRIBUTORS.md](CONTRIBUTORS.md)
+### 4. And make your changes
+- Add your name to [CONTRIBUTORS.md](CONTRIBUTORS.md) list
 - Add a "Hello World" program in your favorite language
 - Or improve existing documentation
 
@@ -158,7 +158,7 @@ Feel free to open an issue if you have any questions or need help getting starte
 *Remember: Every expert was once a beginner. Your first contribution matters!*
 This repo is part of Hacktoberfest 2025 — contributions welcome! 
 
-welcome to world of Contribution.
+welcome to the world of  world of Contribution.
 
 Keep contributing , and happy hacktoberfest!
 
