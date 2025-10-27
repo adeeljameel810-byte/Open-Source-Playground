@@ -65,6 +65,9 @@ Shafi Muhammad to list
 add : Yasir Nawaz khuhro to list
 
 
+add Jameel KHuhro to list
+
+
 
   add:Dua Ali to contributor list.
 
